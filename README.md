@@ -24,3 +24,5 @@ so I can manage my time effectively and visualize my day</p>
 <li>THEN the saved events persist</li>
 
 <img width="1440" alt="Screen Shot 2021-04-15 at 9 47 34 AM" src="https://user-images.githubusercontent.com/79387241/114900001-af9d1d80-9dd0-11eb-8c4c-fb05f7dc0edd.png"><img width="1440" alt="Screen Shot 2021-04-15 at 9 48 33 AM" src="https://user-images.githubusercontent.com/79387241/114900121-ca6f9200-9dd0-11eb-94ba-fd172d9f743a.png">
+
+<h2> Deployed Links:</h2>
