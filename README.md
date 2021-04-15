@@ -28,3 +28,5 @@ so I can manage my time effectively and visualize my day</p>
 <h2> Deployed Links:</h2>
 
 https://russelljus.github.io/Work-Day-Scheduler/
+
+https://github.com/russelljus/Work-Day-Scheduler
